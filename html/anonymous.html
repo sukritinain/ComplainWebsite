@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Anonymous Form</title>
+        <link type="text/css" rel="stylesheet" href="css/anonymous.css" media="screen" />
+        <script type="text/javascript" src="js/anonymous.js"></script>
+    </head>
+    
+  <body id="body">
+      <section id="header">
+          <h1>Public Complain </h1>
+          We are here to spread your voice around!!
+      </section>
+      
+
+<form action="anonymous_form.php" method="post" name="form_user_anonymous_complain">
+        
+    <div id="anonymous_user">
+        <span id="head1"> Subject: </span> <br/>
+        
+        <select id="subject" name="subject">
+            <option value="Restaurants/Hotels"> Restaurants/Hotels </option>
+            <option value="Pubs/Bars"> Pubs/Bars </option>
+            <option value="Roads/Streets"> Roads/Streets </option>
+            <option value="Government offices"> Government offices </option>
+            <option value="Airport/Railway Station/Bus Station/Metro"> Airport/Railway Station/Bus Station/Metro </option>
+            <option value="Police Station"> Police Station </option>
+            <option value="Hospitals"> Hospitals</option>
+            <option value="Taxi/Auto/Cab"> Taxi/Auto/Cab </option>
+            <option value="Shops/Malls "> Shops/Malls </option>
+            <option value="Company "> Company  </option>
+            <option value="Locality/Apartments "> Locality/Apartments </option>
+            <option value="Religious Place"> Religious Place </option>
+            <option value="Parks/Gardens"> Parks/Gardens </option>
+            <option value="Museums/Art Galleries"> Museums/Art Galleries </option>
+            <option value="Schools/Colleges/Universities "> Schools/Colleges/Universities </option>
+            <option value="Other ">Other</option>
+        </select>
+        
+        <span id="head2">Share Your Complain:</span> <br/> <textarea id="complain" name="complain"></textarea> <br/>
+        <input type="submit" value="Submit" id="submit" onClick="validate()"/>
+        
+    </div>
+</form>
+      <p> <a href="index.html">Back to the Main Page </p> </a>
+
+</body>
+</html>
