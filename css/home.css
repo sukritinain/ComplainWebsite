@@ -1,0 +1,118 @@
+#body{
+  background:DarkSlateBlue;
+}
+
+#para{
+  display:block;
+  float:left;
+  margin-left:220px;
+  position:absolute;
+  top:700px;
+  color:white;
+  -webkit-box-flex:1;
+}
+
+#algo{
+  width:700px;
+  display:block;
+  position:absolute;
+  top:180px;
+  left:300px;
+}
+
+#header{
+  width:1220px;
+  border:2px solid black;
+  padding:10px;
+  margin:10px;
+  background:skyblue;
+  text-align:right;
+  font:20px simple Tahoma;
+}
+
+a:link,a:active{
+  text-decoration:none;
+  font:18px bold Tahoma;
+  color:black;
+}
+
+a:hover{
+  font:21px bold Tahoma;
+  background:white;
+  color:black;
+}
+a:visited{
+  color: black;
+}
+
+#column{
+  width:170px;
+  height:380px;
+  position:absolute;
+  left:10px;
+  top:900px;
+  background:skyblue;
+  border:1px solid black;
+  list-style:none;
+}
+
+
+#complaint{
+  text-decoration:none;
+  height:20px;
+  position:absolute;
+  top:30px;
+  left:10px;
+  font:18px normal Tahoma;
+  width:200px;
+}
+
+#complains{
+  text-decoration:none;
+  height:20px;
+  position:absolute;
+  top:110px;
+  left:10px;
+  font:18px normal Tahoma;
+  width:200px;
+}
+
+#videos{
+  text-decoration:none;
+  height:20px;
+  position:absolute;
+  top:190px;
+  left:10px;
+  font:18px normal Tahoma;
+  width:200px;
+}
+
+#contact{
+  text-decoration:none;
+  height:20px;
+  position:absolute;
+  top:270px;
+  left:10px;
+  font:18px normal Tahoma;
+  width:200px;
+}
+
+#back_main{
+  text-decoration:none;
+  height:20px;
+  position:absolute;
+  top:350px;
+  left:10px;
+  font:18px normal Tahoma;
+  width:200px;
+}
+
+b{
+  color:black;
+
+}
+
+
+
+
+

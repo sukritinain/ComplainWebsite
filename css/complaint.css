@@ -1,0 +1,164 @@
+#body{
+ background:DarkSlateBlue;
+}
+
+#places_table{
+   display:block;
+   margin-top:10px;
+   margin-left:200px;
+   padding:80px;
+   width:700px;
+   height:370px;
+   -webkit-border-radius:40px;
+}
+
+#header{
+   width:1220px;
+   border:2px solid black;
+   padding:10px;
+   margin:10px;
+   background:skyblue;
+   text-align:right;
+   font:20px simple Tahoma;
+}
+
+a:link,a:active{
+   text-decoration:none;
+   font:18px bold Tahoma;
+}
+
+a:hover{
+  font-weight: bolder;
+}
+a:visited{
+   color: white;
+}
+
+#place1{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place2{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place3{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place4{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place5{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place6{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place7{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place8{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place9{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place10{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place11{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place12{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place13{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place14{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#place15{
+  text-align:center;
+  padding:0px;
+  background-color:#6495ED;
+  -webkit-border-radius:12px;
+  width:230px;
+}
+
+#back_main{
+text-align:center;
+position:relative;
+top:20px;
+text-decoration:underline;
+}
+
+

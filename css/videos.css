@@ -1,0 +1,23 @@
+#body{
+background:DarkSlateBlue;
+}
+
+a:link,a:active{
+   text-decoration:none;
+   font:21px bold Tahoma;
+}
+
+a:hover{
+  font-weight: bolder;
+}
+a:visited{
+   color: white;
+}
+
+#back_main{
+font:18px bold Tahoma;
+}
+
+p{
+color:white;
+}

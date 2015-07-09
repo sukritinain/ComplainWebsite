@@ -1,0 +1,138 @@
+body{
+   display:block;
+   margin:auto;
+   padding:0;
+   width:1270px;
+   height:1500px;
+   background:DarkSlateBlue;
+}
+
+#heading{
+   width:1220px;
+   border:2px solid black;
+   padding:10px;
+   margin:10px;
+   background:skyblue;
+   text-align:right;
+   font:20px simple Tahoma;
+}
+
+#main_heading{
+   position:relative;
+   top:-170px;
+   left:60px;
+   width:700px;
+   height:0px;
+   margin:200px auto;
+}
+#center_heading{
+   width:20px;
+   height:20px;
+   text-align:center;
+   margin:100px 300px;
+   position:absolute;
+   top:30px;
+   left:30px;
+}
+
+#cartoon{
+   width:500px;
+   height:500px;
+   float:left;
+}
+
+#text1{
+  width:190px;
+  margin:30px;
+  height:225px;
+  float:right;
+}
+
+#down_arrow{
+   position:absolute;
+   right:350px;
+   top:580px;
+   margin:20px -130px;
+   width:40px;
+   height:40px;
+}
+
+#text2{
+   width:260px;
+   height:320px;
+   float:right;
+   margin:10px;
+}
+
+#left_arrow{
+   position:absolute;
+   right:430px;
+   top:780px;
+   margin:40px -200px;
+   width:40px;
+   height:40px;
+}
+
+#group{
+   width:650px;
+   height:300px;
+   float:right;
+   margin:10px;
+}
+
+#question{
+   font:30px bold Arial;
+   position:absolute;
+   right:500px;
+   top:1200px;
+   margin:20px -130px;
+   color:black;
+   border:2px solid black;
+   -webkit-border-radius:25px;
+   -webkit-box-shadow:rgb(100,100,100) 8px 8px 8px;
+   background:skyblue;
+}
+
+#home{
+   position:absolute;
+   top:1380px;
+   right:280px;
+   width:60px;
+   color:white;
+   font:normal 20px Tahoma;
+   text-align:right;
+}
+
+#complains{
+   position:absolute;
+   top:1380px;
+   right:160px;
+   width:95px;
+   color:white;
+   font:normal 20px Tahoma;
+   text-align:center;
+}
+
+#contact{
+   display:block;
+   position:absolute;
+   top:1400px;
+   right:70px;
+   width:75px;
+   font:normal 20px Tahoma;
+   text-align:center;
+}
+
+a:hover, a:visited, a:link, a:active{
+   text-decoration: none;
+   color:white;
+}
+
+
+
+
+
+
+
+
+

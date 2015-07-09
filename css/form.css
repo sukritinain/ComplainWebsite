@@ -1,0 +1,155 @@
+#body{
+background:DarkSlateBlue;
+}
+
+#header{
+width:1220px;
+border:2px solid black;
+padding:10px;
+margin:10px;
+background:skyblue;
+text-align:right;
+font:20px simple Tahoma;
+}
+
+#register_user{
+position:absolute;
+top:180px;
+display:block;
+float:left;
+margin:30px;
+padding:20px;
+width:500px;
+height:480px;
+border:1px solid black;
+color:white;
+background:skyblue;
+-webkit-border-radius:8px;
+}
+
+#name{
+width:350px;
+position:absolute;
+margin-top:3px;
+-webkit-border-radius:3px;
+border:1px solid black;
+}
+
+#email{
+width:350px;
+position:absolute;
+margin-top:15px;
+-webkit-border-radius:3px;
+border:1px solid black;
+}
+
+#subject{
+position:absolute;
+margin-top:15px;
+-webkit-border-radius:3px;
+top:170px;
+left:20px;
+width:350px;
+height:20px;
+}
+
+#head1{
+font:15px normal Tahoma;
+}
+
+#head2{
+position:absolute;
+top:70px;
+left:20px;
+font:15px normal Tahoma;
+}
+
+#head3{
+position:absolute;
+top:166px;
+left:20px;
+font:15px normal Tahoma;
+}
+
+#head4{
+position:absolute;
+top:220px;
+left:20px;
+font:15px normal Tahoma;
+}
+
+input[type="text"]{
+width:230px;
+}
+
+#complain{
+width:500px;
+height:230px;
+position:absolute;
+top:240px;
+left:20px;
+-webkit-border-radius:5px;
+}
+
+input[type="submit"]{
+width:90px;
+height:30px;
+color:black;
+border:1px solid black;
+-webkit-border-radius:8px;
+font:20px bold Tahoma;
+position:absolute;
+top:485px;
+}
+
+input:hover[type="submit"]{
+cursor:pointer;
+}
+
+h3{
+display:block;
+-webkit-border-radius:8px;
+text-align:center;
+font:20px Bolder Tahoma;
+color:white;
+width:500px;
+height:50px;
+position:absolute;
+top:380px;
+right:130px;
+}
+
+p{
+position:absolute;
+top:650px;
+left:600px;
+}
+
+a:link,a:active{
+   text-decoration:none;
+   font:20px bold Tahoma;
+   color:white;
+}
+
+a:hover{
+  font-weight: bolder;
+  color:white;
+}
+a:visited{
+   color: white;
+   
+}
+
+#country{
+position:absolute;
+top:120px;
+left:20px;
+}
+
+#country_name{
+width:350px;
+position:absolute;
+top:140px;
+-webkit-border-radius:3px;
+border:1px solid black;
+}

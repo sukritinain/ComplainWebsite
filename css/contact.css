@@ -1,0 +1,155 @@
+#body{
+background:DarkSlateBlue;
+}
+
+#header{
+width:1220px;
+border:2px solid black;
+padding:10px;
+margin:10px;
+background:skyblue;
+text-align:right;
+font:20px simple Tahoma;
+}
+
+
+#user_complain{
+display:block;
+float:left;
+margin:80px 30px;
+width:500px;
+height:480px;
+position:absolute;
+top:120px;
+border:1px solid black;
+color:white;
+background:skyblue;
+-webkit-border-radius:8px;
+}
+
+#contact{
+display:block;
+float:left;
+position:absolute;
+top:350px;
+right:400px;
+width:240px;
+color:white;
+background:skyblue;
+text-align:center;
+border:1px solid black;
+-webkit-border-radius:5px;
+}
+
+#name{
+width:350px;
+position:absolute;
+left:10px;
+top:25px;
+-webkit-border-radius:3px;
+border:1px solid black;
+}
+
+#email{
+width:350px;
+position:absolute;
+left:10px;
+top:75px;
+-webkit-border-radius:3px;
+border:1px solid black;
+}
+
+#complain{
+width:450px;
+height:250px;
+position:absolute;
+top:185px;
+left:10px;
+border:1px solid black;
+-webkit-border-radius:3px;
+}
+
+#submit{
+position:absolute;
+top:445px;
+left:150px;
+border:1px solid black;
+-webkit-border-radius:3px;
+width:130px;
+font:18px bold Tahoma;
+}
+
+#head1{
+font:15px normal Tahoma;
+position:absolute;
+top:6px;
+left:10px;
+}
+
+#head2{
+position:absolute;
+top:55px;
+left:10px;
+font:15px normal Tahoma;
+}
+
+#head3{
+position:absolute;
+top:160px;
+left:10px;
+font:15px normal Tahoma;
+}
+
+h3{
+-webkit-border-radius:5px;
+border:1px solid black;
+background:skyblue;
+color:white;
+width:400px;
+position:absolute;
+top:140px;
+left:400px;
+text-align:center;
+font:20px bolder Tahoma;
+}
+
+p{
+position:absolute;
+top:600px;
+left:560px;
+}
+
+a:link,a:active{
+   text-decoration:none;
+   font:20px bold Tahoma;
+}
+
+a:hover{
+  font-weight: bolder;
+}
+a:visited{
+   color: white;
+   
+}
+
+#country{
+font:15px normal Tahoma;
+position:absolute;
+top:110px;
+left:10px;
+}
+
+#country_name{
+width:350px;
+border:1px solid black;
+position:absolute;
+left:10px;
+top:130px;
+-webkit-border-radius:3px;
+}
+
+
+
+
+
+
